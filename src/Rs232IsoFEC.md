@@ -9,8 +9,9 @@
 |  2 | DS LED (0805)                                     | DS1-DS2 | 475-1415-1-ND               |
 |  1 | J JST XH Vertical (3w)                            | J1      | 455-2248-ND                 |
 |  1 | L Ferrite 600R@100Mhz                             | L1      | 240-2390-1-ND               |
-|  2 | R 1K 0.125W (0805)                                | R1-R2   | RMCF0805FT1K00CT-ND         |
-|  1 | R 5.1K 0.125W (0805)                              | R6      | RMCF0805FT5K10CT-ND         |
+|  1 | Q P-MOSFET DMP3099L-13 (SOT23)                    | Q1      | DMP3099L-13DICT-ND          |
+|  3 | R 1K 0.125W (0805)                                | R1-R3   | RMCF0805FT1K00CT-ND         |
+|  1 | R 5.1K 0.125W (0805)                              | R4      | RMCF0805FT5K10CT-ND         |
 |  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNL-TUBE-ND        |
 |  1 | U Transciever RS232 ADM3251E (SOIC-20)            | U2      | 505-ADM3251EARWZ-ND         |
 
@@ -38,4 +39,4 @@
 | Property | Value  |
 |----------|-------:|
 | Voltage  |    5 V |
-| Current  | 200 mA |
+| Current  | 210 mA |
