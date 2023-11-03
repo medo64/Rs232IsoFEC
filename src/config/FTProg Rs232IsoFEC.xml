@@ -20,7 +20,7 @@
   </USB_Config_Descriptor>
   <USB_String_Descriptors>
     <Manufacturer>Medo64</Manufacturer>
-    <Product_Description>RS-232 FEC</Product_Description>
+    <Product_Description>Isolated RS-232 FEC</Product_Description>
     <SerialNumber_Enabled>true</SerialNumber_Enabled>
     <SerialNumber />
     <SerialNumberPrefix>JM</SerialNumberPrefix>
