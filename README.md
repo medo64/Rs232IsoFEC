@@ -2,7 +2,7 @@
 ===========================================================================
 
 This Framework laptop expansion card will show up on your system as a serial
-device and allow for a isolated RS-232 communication up to 460,800 baud rate.
+device and allow for isolated RS-232 communication up to 460,800 baud rate.
 
 
 ## UART Pinout
