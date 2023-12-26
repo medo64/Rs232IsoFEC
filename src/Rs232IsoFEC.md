@@ -13,6 +13,7 @@
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)                    | Q1      | DMP3099L-13DICT-ND          |
 |  3 | R 1K 0.125W (0805)                                | R1-R3   | RMCF0805FT1K00CT-ND         |
 |  1 | R 5.1K 0.125W (0805)                              | R4      | RMCF0805FT5K10CT-ND         |
+|  1 | R 10K 0.125W (0805)                               | R5      | RMCF0805FT10K0CT-ND         |
 |  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNL-TUBE-ND        |
 |  1 | U Transciever RS232 ADM3251E (SOIC-20)            | U2      | 505-ADM3251EARWZ-ND         |
 |  2 | H Screw M2x3mm                                    | -       | -                           |
